@@ -4,9 +4,13 @@ Repo to keep track of algorithms practiced.
 
 ## Completed Algorithms
 
-* [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
 * [AlgoExpert](https://www.algoexpert.io/)
   * Easy
     * Arrays: Two Number Sum
     * Strings : Palindrome Check
     * Recursion: Nth Fibonaccci Number
+* [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
+* [HackerRank](https://www.hackerrank.com)
+    * Algorithms
+        * Implementation
+            * Bon Appetit
