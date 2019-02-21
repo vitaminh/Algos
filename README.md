@@ -18,3 +18,4 @@ Repo to keep track of algorithms practiced.
     * Algorithms
         * Implementation
             * [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit/problem)
+            * [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
