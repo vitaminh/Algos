@@ -8,3 +8,5 @@ Repo to keep track of algorithms practiced.
 * [AlgoExpert](https://www.algoexpert.io/)
   * Easy
     * Arrays: Two Number Sum
+    * Strings : Palindrome Check
+    * Recursion: Nth Fibonaccci Number
