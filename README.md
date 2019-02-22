@@ -11,9 +11,10 @@ Repo to keep track of algorithms practiced.
     * Recursion: [Nth Fibonaccci Number](https://www.algoexpert.io/questions/Nth%20Fibonacci)
   * Medium
     * Tries: [Suffix Trie Construction](https://www.algoexpert.io/questions/Suffix%20Trie%20Construction)
-
+* [Codewars](https://www.codewars.com)
+    * 7th Kyu
+        * [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 * [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
-
 * [HackerRank](https://www.hackerrank.com)
     * Algorithms
         * Implementation
