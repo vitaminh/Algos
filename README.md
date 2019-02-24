@@ -16,6 +16,7 @@ Repo to keep track of algorithms practiced.
         * [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
     * 8th Kyu
         * [Fake Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d)
+        * [Simple Multiplication](https://www.codewars.com/kata/583710ccaa6717322c000105)
 * [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
 * [HackerRank](https://www.hackerrank.com)
     * Algorithms
