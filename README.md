@@ -12,6 +12,8 @@ Repo to keep track of algorithms practiced.
   * Medium
     * Tries: [Suffix Trie Construction](https://www.algoexpert.io/questions/Suffix%20Trie%20Construction)
 * [Codewars](https://www.codewars.com)
+    * 6th Kyu
+        * [Replace with Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
     * 7th Kyu
         * [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
     * 8th Kyu
