@@ -23,6 +23,7 @@ Repo to keep track of algorithms practiced.
         * [Simple Multiplication](https://www.codewars.com/kata/583710ccaa6717322c000105)
         * [Convert a Number to a String](https://www.codewars.com/kata/5265326f5fda8eb1160004c8)
         * [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
+        * [Sum of Positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
 * [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
 * [HackerRank](https://www.hackerrank.com)
     * Algorithms
