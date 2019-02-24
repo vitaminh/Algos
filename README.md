@@ -11,6 +11,7 @@ Repo to keep track of algorithms practiced.
     * Strings : [Palindrome Check](https://www.algoexpert.io/questions/Palindrome%20Check)
     * Recursion: [Nth Fibonaccci Number](https://www.algoexpert.io/questions/Nth%20Fibonacci)
   * Medium
+    * Recursion: [Powerset](https://www.algoexpert.io/questions/Powerset)
     * Tries: [Suffix Trie Construction](https://www.algoexpert.io/questions/Suffix%20Trie%20Construction)
 * [Codewars](https://www.codewars.com)
     * 6th Kyu
