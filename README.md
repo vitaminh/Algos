@@ -13,6 +13,8 @@ Repo to keep track of algorithms practiced.
   * Medium
     * Recursion: [Powerset](https://www.algoexpert.io/questions/Powerset)
     * Tries: [Suffix Trie Construction](https://www.algoexpert.io/questions/Suffix%20Trie%20Construction)
+  * Hard
+    * Dynamic Programming: [Minimum Number of Jumps](https://www.algoexpert.io/questions/Min%20Number%20Of%20Jumps)
 * [Codewars](https://www.codewars.com)
     * 6th Kyu
         * [Replace with Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
