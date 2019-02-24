@@ -7,6 +7,7 @@ Repo to keep track of algorithms practiced.
 * [AlgoExpert](https://www.algoexpert.io/)
   * Easy
     * Arrays: [Two Number Sum](https://www.algoexpert.io/questions/Two%20Number%20Sum)
+    * Arrays: [Find Three Largest Numbers](https://www.algoexpert.io/questions/Find%20Three%20Largest%20Numbers)
     * Strings : [Palindrome Check](https://www.algoexpert.io/questions/Palindrome%20Check)
     * Recursion: [Nth Fibonaccci Number](https://www.algoexpert.io/questions/Nth%20Fibonacci)
   * Medium
