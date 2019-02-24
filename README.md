@@ -20,6 +20,7 @@ Repo to keep track of algorithms practiced.
         * [Fake Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d)
         * [Simple Multiplication](https://www.codewars.com/kata/583710ccaa6717322c000105)
         * [Convert a Number to a String](https://www.codewars.com/kata/5265326f5fda8eb1160004c8)
+        * [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
 * [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
 * [HackerRank](https://www.hackerrank.com)
     * Algorithms
