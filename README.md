@@ -11,7 +11,10 @@ Repo to keep track of algorithms practiced.
     * Strings : [Palindrome Check](https://www.algoexpert.io/questions/Palindrome%20Check)
     * Recursion: [Nth Fibonaccci Number](https://www.algoexpert.io/questions/Nth%20Fibonacci)
   * Medium
+    * Recursion: [Powerset](https://www.algoexpert.io/questions/Powerset)
     * Tries: [Suffix Trie Construction](https://www.algoexpert.io/questions/Suffix%20Trie%20Construction)
+  * Hard
+    * Dynamic Programming: [Minimum Number of Jumps](https://www.algoexpert.io/questions/Min%20Number%20Of%20Jumps)
 * [Codewars](https://www.codewars.com)
     * 5 Kyu
         * [Product of Consecutive Fib Numbers](https://www.codewars.com/kata/5541f58a944b85ce6d00006a)
@@ -25,6 +28,7 @@ Repo to keep track of algorithms practiced.
         * [Simple Multiplication](https://www.codewars.com/kata/583710ccaa6717322c000105)
         * [Convert a Number to a String](https://www.codewars.com/kata/5265326f5fda8eb1160004c8)
         * [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
+        * [Sum of Positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
 * [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
 * [HackerRank](https://www.hackerrank.com)
     * Algorithms
