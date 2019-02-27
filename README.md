@@ -13,6 +13,8 @@ Repo to keep track of algorithms practiced.
   * Medium
     * Tries: [Suffix Trie Construction](https://www.algoexpert.io/questions/Suffix%20Trie%20Construction)
 * [Codewars](https://www.codewars.com)
+    * 5 Kyu
+        * [Product of Consecutive Fib Numbers](https://www.codewars.com/kata/5541f58a944b85ce6d00006a)
     * 6th Kyu
         * [Replace with Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
     * 7th Kyu
