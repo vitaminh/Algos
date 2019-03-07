@@ -30,6 +30,7 @@ Repo to keep track of algorithms practiced.
         * [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
         * [Sum of Positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
         * [Reverse Sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d)
+        * [Remove Exclamation Marks](https://www.codewars.com/kata/57a0885cbb9944e24c00008e)
 * [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
 * [HackerRank](https://www.hackerrank.com)
     * Algorithms
