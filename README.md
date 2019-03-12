@@ -16,10 +16,16 @@ Repo to keep track of algorithms practiced.
   * Hard
     * Dynamic Programming: [Minimum Number of Jumps](https://www.algoexpert.io/questions/Min%20Number%20Of%20Jumps)
 * [Codewars](https://www.codewars.com)
+    * 5 Kyu
+        * [Product of Consecutive Fib Numbers](https://www.codewars.com/kata/5541f58a944b85ce6d00006a)
     * 6th Kyu
         * [Replace with Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
     * 7th Kyu
+<<<<<<< HEAD
         * [Difference Of Squares](https://www.codewars.com/kata/558f9f51e85b46e9fa000025)
+=======
+        * [Alphabet War](https://www.codewars.com/kata/59377c53e66267c8f6000027)
+>>>>>>> cc5d9f92222249af3ab003fa0b2fd04ddd9c0737
         * [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
     * 8th Kyu
         * [Fake Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d)
@@ -27,6 +33,8 @@ Repo to keep track of algorithms practiced.
         * [Convert a Number to a String](https://www.codewars.com/kata/5265326f5fda8eb1160004c8)
         * [Grasshopper - Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
         * [Sum of Positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
+        * [Reverse Sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d)
+        * [Remove Exclamation Marks](https://www.codewars.com/kata/57a0885cbb9944e24c00008e)
 * [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
 * [HackerRank](https://www.hackerrank.com)
     * Algorithms
