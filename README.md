@@ -21,11 +21,8 @@ Repo to keep track of algorithms practiced.
     * 6th Kyu
         * [Replace with Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
     * 7th Kyu
-<<<<<<< HEAD
         * [Difference Of Squares](https://www.codewars.com/kata/558f9f51e85b46e9fa000025)
-=======
         * [Alphabet War](https://www.codewars.com/kata/59377c53e66267c8f6000027)
->>>>>>> cc5d9f92222249af3ab003fa0b2fd04ddd9c0737
         * [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
     * 8th Kyu
         * [Fake Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d)
