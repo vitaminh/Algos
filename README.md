@@ -19,6 +19,7 @@ Repo to keep track of algorithms practiced.
     * 5 Kyu
         * [Product of Consecutive Fib Numbers](https://www.codewars.com/kata/5541f58a944b85ce6d00006a)
     * 6th Kyu
+        * [Dashatize](https://www.codewars.com/kata/58223370aef9fc03fd000071)
         * [Replace with Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
     * 7th Kyu
         * [Difference Of Squares](https://www.codewars.com/kata/558f9f51e85b46e9fa000025)
