@@ -22,6 +22,7 @@ Repo to keep track of algorithms practiced.
         * [Dashatize](https://www.codewars.com/kata/58223370aef9fc03fd000071)
         * [Replace with Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
     * 7th Kyu
+        * [Small Enough](https://www.codewars.com/kata/57cc981a58da9e302a000214)
         * Calculate Mean and Concatenate String
         * [Difference Of Squares](https://www.codewars.com/kata/558f9f51e85b46e9fa000025)
         * [Alphabet War](https://www.codewars.com/kata/59377c53e66267c8f6000027)
