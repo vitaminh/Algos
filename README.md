@@ -21,6 +21,7 @@ Repo to keep track of algorithms practiced.
     * 6th Kyu
         * [Dashatize](https://www.codewars.com/kata/58223370aef9fc03fd000071)
         * [Replace with Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
+        * [Array Deep Count](https://www.codewars.com/kata/596f72bbe7cd7296d1000029)
     * 7th Kyu
         * [Sum of Integers in String](https://www.codewars.com/kata/598f76a44f613e0e0b000026)
         * [Small Enough](https://www.codewars.com/kata/57cc981a58da9e302a000214)
