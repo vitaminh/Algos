@@ -1,4 +1,4 @@
-// https://www.codewars.com/kata/582cb0224e56e068d800003c/solutions/csharp
+https://www.codewars.com/kata/582cb0224e56e068d800003c/train/csharp
 
 using System;
 
